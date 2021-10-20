@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 <h4 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h4>
 
 <p align="left">
-<a href="https://linkedin.com/in/https:/pranav-kushare-ab217418a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-kushare-ab217418a/" height="30" width="40" /></a>
-<a href="www.kaggle.com/pranav082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranav082001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranav-kushare-ab217418a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-kushare-ab217418a/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pranav082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranav082001" height="30" width="40" /></a>
 <a href="https://medium.com/@pranav.kushare2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pranav.kushare2001" height="30" width="40" /></a>
 </p>
 
