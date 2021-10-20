@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Pranav</h1>
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pranav082001.Pranav082001)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranav082001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -9,7 +10,7 @@
 [![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
- -->
+ 
 
 <!--
 **Pranav082001/Pranav082001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,6 +84,18 @@ Here are some ideas to get you started:
 
 </p>
 
+
+<h3 align="left">Connect with me:</h3>
+<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-kushare-ab217418a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-kushare-ab217418a/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/pranav082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranav082001" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@pranav.kushare2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pranav.kushare2001" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/PranavK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/PranavK" /></a></p><br><br>
 
 
 
